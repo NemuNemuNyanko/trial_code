@@ -6,11 +6,15 @@ https://qiita.com/c60evaporator/items/ca7eb70e1508d2ba5359#23-%E3%83%91%E3%83%A9
 ## lightgbm
 - General
 https://qiita.com/c60evaporator/items/351188110f328ff921b9
+- LightgbmTuner 公式
+https://tech.preferred.jp/ja/blog/hyperparameter-tuning-with-optuna-integration-lightgbm-tuner/
 - By optuna
 https://qiita.com/DS27/items/ec6a747977e57bb1837e
 - By LightGBM Tuner
 https://datadriven-rnd.com/lightgbm-tuner/
 https://qiita.com/askl4267/items/28b476f76b01699430fe
+- 探索範囲参考
+https://github.com/optuna/optuna-examples/blob/main/lightgbm/lightgbm_simple.py
 - 原論文
 https://proceedings.neurips.cc/paper_files/paper/2017/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf
 
@@ -22,6 +26,8 @@ https://www.codexa.net/hyperparameter-tuning-python/
 https://www.kaggle.com/code/prashant111/a-guide-on-xgboost-hyperparameters-tuning
 
 https://www.kaggle.com/code/felipefiorini/xgboost-hyper-parameter-tuning
+- 探索範囲参考
+https://github.com/optuna/optuna-examples/blob/main/xgboost/xgboost_cv.py
 - 原論文
 https://arxiv.org/pdf/1603.02754.pdf
 - その解説
@@ -37,6 +43,8 @@ https://www.projectpro.io/recipes/find-optimal-parameters-for-catboost-using-gri
 https://www.kaggle.com/code/shivampanwar/catboost-and-hyperparameter-tuning-using-bayes
 - By Amazon
 https://docs.aws.amazon.com/ja_jp/sagemaker/latest/dg/catboost-tuning.html
+- 探索範囲参考
+https://github.com/optuna/optuna-examples/blob/main/catboost/catboost_simple.py
 - 原論文
 https://arxiv.org/pdf/1706.09516.pdf
 
